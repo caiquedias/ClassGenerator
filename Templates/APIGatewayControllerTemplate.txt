@@ -1,0 +1,21 @@
+﻿using APIGateway.Interfaces;
+using DOrDomainServiceIntegration;
+using Microsoft.AspNetCore.Mvc;
+using System.Threading.Tasks;
+
+namespace APIGateway.Controllers
+{
+
+    [Route("api/[controller]/[action]")]
+    [ApiController]
+    public class [DOMAIN]Controller : ControllerBase
+    {
+        private readonly IProxyService _proxyService;
+        public [DOMAIN]Controller(IProxyService proxyService)
+        {
+            _proxyService = proxyService;
+        }
+
+        [METHODS]
+    }
+}

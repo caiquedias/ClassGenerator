@@ -1,0 +1,74 @@
+[
+  {
+    "SchemaName": null,
+    "TableName": null,
+    "ClassName": "PartnerType",
+    "AccessKeyObject": "a31f62d0-9606-a64d-43bb-0a521a5f9066"
+  },
+  {
+    "SchemaName": null,
+    "TableName": null,
+    "ClassName": "CompanyType",
+    "AccessKeyObject": "99050d7b-83f9-0fdd-c567-9da8e0169347"
+  },
+  {
+    "SchemaName": null,
+    "TableName": null,
+    "ClassName": "ClientSituation",
+    "AccessKeyObject": "9c72e4a9-97e0-e8ff-8c49-f7f4e60ef85e"
+  },
+  {
+    "SchemaName": null,
+    "TableName": null,
+    "ClassName": "ClientPort",
+    "AccessKeyObject": "c09d71c8-aa76-c81b-9343-190ec41cafc4"
+  },
+  {
+    "SchemaName": null,
+    "TableName": null,
+    "ClassName": "Partner",
+    "AccessKeyObject": "922fa2e4-dd97-2142-4ac7-e44bd12b94e9"
+  },
+  {
+    "SchemaName": null,
+    "TableName": null,
+    "ClassName": "Dor Branch",
+    "AccessKeyObject": "c6dda93d-a2ed-915e-5c0e-4112e545ab79"
+  },
+  {
+    "SchemaName": null,
+    "TableName": null,
+    "ClassName": "IndicationOrigin",
+    "AccessKeyObject": "0e3fc793-f8b2-08a7-ae7b-fdb883ce2031"
+  },
+  {
+    "SchemaName": null,
+    "TableName": null,
+    "ClassName": "ContactType",
+    "AccessKeyObject": "453001ae-3044-8db0-edc1-9ba84b9364f2"
+  },
+  {
+    "SchemaName": null,
+    "TableName": null,
+    "ClassName": "Contact",
+    "AccessKeyObject": "e67768fa-c52f-d15d-804b-f220f474536c"
+  },
+  {
+    "SchemaName": null,
+    "TableName": null,
+    "ClassName": "AlertCompanyType",
+    "AccessKeyObject": "2505d956-145f-3f86-b036-7284896eb69c"
+  },
+  {
+    "SchemaName": null,
+    "TableName": null,
+    "ClassName": "Company",
+    "AccessKeyObject": "49bac4be-dadb-26b1-1b92-f6389c3a7500"
+  },
+  {
+    "SchemaName": null,
+    "TableName": null,
+    "ClassName": "Client",
+    "AccessKeyObject": "76a1f78b-7546-7710-68fe-ff9a9f8a2fdb"
+  }
+]

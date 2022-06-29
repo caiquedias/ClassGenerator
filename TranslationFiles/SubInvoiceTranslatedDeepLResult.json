@@ -1,0 +1,194 @@
+[
+  {
+    "SchemaName": null,
+    "TableName": null,
+    "ClassName": "ContractCompanyType",
+    "AccessKeyObject": "2790bcd3-7c9c-c01d-6374-2744b867b7f5"
+  },
+  {
+    "SchemaName": null,
+    "TableName": null,
+    "ClassName": "ImplementationType",
+    "AccessKeyObject": "2e2801d8-418c-6977-d3e7-926ce945c227"
+  },
+  {
+    "SchemaName": null,
+    "TableName": null,
+    "ClassName": "PaymentModality Type Saude Odonto",
+    "AccessKeyObject": "f0649c13-f01b-a765-7419-a5eb83db45a7"
+  },
+  {
+    "SchemaName": null,
+    "TableName": null,
+    "ClassName": "ContractPort Type",
+    "AccessKeyObject": "3f8938ae-f40a-8b5a-c9f6-f3da2e4cfb49"
+  },
+  {
+    "SchemaName": null,
+    "TableName": null,
+    "ClassName": "ProductType",
+    "AccessKeyObject": "821d4717-d8db-e8e7-1f6e-ee894f8ad430"
+  },
+  {
+    "SchemaName": null,
+    "TableName": null,
+    "ClassName": "Contract ProductFact",
+    "AccessKeyObject": "f2d94645-792a-a616-d960-423188c18213"
+  },
+  {
+    "SchemaName": null,
+    "TableName": null,
+    "ClassName": "ContractDetailFact",
+    "AccessKeyObject": "43fd7e8d-c530-b7f0-d0e8-8ad7b661a54f"
+  },
+  {
+    "SchemaName": null,
+    "TableName": null,
+    "ClassName": "ContractFact",
+    "AccessKeyObject": "6694d5a7-ded3-c532-ffa2-6a10b0fa09b2"
+  },
+  {
+    "SchemaName": null,
+    "TableName": null,
+    "ClassName": "FactRule Dental Health",
+    "AccessKeyObject": "8c166d02-4644-2cbb-3602-7519334f05b5"
+  },
+  {
+    "SchemaName": null,
+    "TableName": null,
+    "ClassName": "PartnerType",
+    "AccessKeyObject": "a31f62d0-9606-a64d-43bb-0a521a5f9066"
+  },
+  {
+    "SchemaName": null,
+    "TableName": null,
+    "ClassName": "Flag",
+    "AccessKeyObject": "1eb912a5-91bd-7866-ab9b-9695236d9044"
+  },
+  {
+    "SchemaName": null,
+    "TableName": null,
+    "ClassName": "Calendar",
+    "AccessKeyObject": "f3a32156-b4e1-f115-adca-1b0acce8e540"
+  },
+  {
+    "SchemaName": null,
+    "TableName": null,
+    "ClassName": "Client",
+    "AccessKeyObject": "76a1f78b-7546-7710-68fe-ff9a9f8a2fdb"
+  },
+  {
+    "SchemaName": null,
+    "TableName": null,
+    "ClassName": "Contact",
+    "AccessKeyObject": "e67768fa-c52f-d15d-804b-f220f474536c"
+  },
+  {
+    "SchemaName": null,
+    "TableName": null,
+    "ClassName": "Company",
+    "AccessKeyObject": "49bac4be-dadb-26b1-1b92-f6389c3a7500"
+  },
+  {
+    "SchemaName": null,
+    "TableName": null,
+    "ClassName": "Dor Branch",
+    "AccessKeyObject": "c6dda93d-a2ed-915e-5c0e-4112e545ab79"
+  },
+  {
+    "SchemaName": null,
+    "TableName": null,
+    "ClassName": "ProfileGroup",
+    "AccessKeyObject": "fcc27865-a0b4-ef19-f1cd-56e99a9c0994"
+  },
+  {
+    "SchemaName": null,
+    "TableName": null,
+    "ClassName": "InsuredGroup",
+    "AccessKeyObject": "bc805ef7-bab6-c3bb-37ac-f0bb96ab79c0"
+  },
+  {
+    "NameSchema": null,
+    "TableName": null,
+    "ClassName": "Contract CancellationReason",
+    "AccessKeyObject": "2753e1ef-85bc-24d7-6fe7-5d857245009e"
+  },
+  {
+    "NameSchema": null,
+    "TableName": null,
+    "ClassName": "Operator",
+    "AccessKeyObject": "e9844733-ba0a-15d4-6430-6809d35a77da"
+  },
+  {
+    "SchemaName": null,
+    "TableName": null,
+    "ClassName": "IndicationOrigin",
+    "AccessKeyObject": "0e3fc793-f8b2-08a7-ae7b-fdb883ce2031"
+  },
+  {
+    "SchemaName": null,
+    "TableName": null,
+    "ClassName": "Partner",
+    "AccessKeyObject": "922fa2e4-dd97-2142-4ac7-e44bd12b94e9"
+  },
+  {
+    "SchemaName": null,
+    "TableName": null,
+    "ClassName": "ClientPort",
+    "AccessKeyObject": "c09d71c8-aa76-c81b-9343-190ec41cafc4"
+  },
+  {
+    "NameSchema": null,
+    "TableName": null,
+    "ClassName": "EdgeProduct",
+    "AccessKeyObject": "1b29f685-bdce-2884-dbad-395e2c455ef3"
+  },
+  {
+    "SchemaName": null,
+    "TableName": null,
+    "ClassName": "ClientSituation",
+    "AccessKeyObject": "9c72e4a9-97e0-e8ff-8c49-f7f4e60ef85e"
+  },
+  {
+    "SchemaName": null,
+    "TableName": null,
+    "ClassName": "ContractStatus",
+    "AccessKeyObject": "89d75692-92e3-a6cf-9745-0fabe0593cc4"
+  },
+  {
+    "SchemaName": null,
+    "TableName": null,
+    "ClassName": "ContractStatus",
+    "AccessKeyObject": "56011654-18ff-1b86-fba0-7d88744baa83"
+  },
+  {
+    "SchemaName": null,
+    "TableName": null,
+    "ClassName": "Contract Characteristic Type",
+    "AccessKeyObject": "9cad72f3-cfa5-7157-c93a-8368d6e652f4"
+  },
+  {
+    "SchemaName": null,
+    "TableName": null,
+    "ClassName": "ContactType",
+    "AccessKeyObject": "453001ae-3044-8db0-edc1-9ba84b9364f2"
+  },
+  {
+    "NameSchema": null,
+    "TableName": null,
+    "ClassName": "Compulsory Contract Type",
+    "AccessKeyObject": "e30ca416-ddae-8d40-488b-26624133bc82"
+  },
+  {
+    "SchemaName": null,
+    "TableName": null,
+    "ClassName": "CompanyType",
+    "AccessKeyObject": "99050d7b-83f9-0fdd-c567-9da8e0169347"
+  },
+  {
+    "SchemaName": null,
+    "TableName": null,
+    "ClassName": "AlertCompanyType",
+    "AccessKeyObject": "2505d956-145f-3f86-b036-7284896eb69c"
+  }
+]

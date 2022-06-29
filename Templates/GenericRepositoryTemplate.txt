@@ -1,0 +1,48 @@
+﻿using [DOMAIN].API.Entities;
+using [DOMAIN].API.Interfaces.Repository;
+using Microsoft.EntityFrameworkCore;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Linq.Expressions;
+using System.Threading.Tasks;
+
+namespace [DOMAIN].API.Repository
+{
+    public class GenericRepository<T> : IGenericRepository<T> where T : class
+    {
+        protected readonly [DOMAIN]Context _context;
+        public GenericRepository([DOMAIN]Context context)
+        {
+            _context = context;
+        }
+        public async Task Add(T entity)
+        {
+            await _context.Set<T>().AddAsync(entity);
+        }
+        public async Task AddRange(IEnumerable<T> entities)
+        {
+            await _context.Set<T>().AddRangeAsync(entities);
+        }
+        public IList<T> Find(Expression<Func<T, bool>> expression)
+        {
+            return _context.Set<T>().Where(expression).AsNoTracking().ToList();
+        }
+        public IList<T> GetAll()
+        {
+            return _context.Set<T>().AsNoTracking().ToList();
+        }
+        public async Task<T> GetById(string hash)
+        {
+            return await _context.Set<T>().FindAsync(hash);
+        }
+        public void Remove(T entity)
+        {
+            _context.Set<T>().Remove(entity);
+        }
+        public void RemoveRange(IEnumerable<T> entities)
+        {
+            _context.Set<T>().RemoveRange(entities);
+        }
+    }
+}

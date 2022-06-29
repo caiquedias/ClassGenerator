@@ -1,0 +1,54 @@
+﻿using [DOMAIN].API.Interfaces.Repository;
+using [DOMAIN].API.Interfaces.Service;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Linq.Expressions;
+using System.Threading.Tasks;
+
+namespace [DOMAIN].API.Service
+{
+    public class GenericService<T> : IGenericService<T> where T : class
+    {
+        private readonly IGenericRepository<T> _repository;
+        public GenericService(IGenericRepository<T> repository)
+        {
+            _repository = repository;
+        }
+
+        public async Task Add(T entity)
+        {
+            await _repository.Add(entity);
+        }
+
+        public async Task AddRange(IEnumerable<T> entities)
+        {
+            await _repository.AddRange(entities);
+        }
+
+        public IList<T> Find(Expression<Func<T, bool>> expression)
+        {
+            return _repository.Find(expression);
+        }
+
+        public IList<T> GetAll()
+        {
+            return  _repository.GetAll();
+        }
+
+        public async Task<T> GetById(string hash)
+        {
+            return await _repository.GetById(hash);
+        }
+
+        public void Remove(T entity)
+        {
+            _repository.Remove(entity);
+        }
+
+        public void RemoveRange(IEnumerable<T> entities)
+        {
+            _repository.RemoveRange(entities);
+        }
+    }
+}

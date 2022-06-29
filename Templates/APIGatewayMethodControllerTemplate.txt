@@ -1,0 +1,8 @@
+﻿
+        [HttpGet("Get/{hash}")]
+        public async Task<IActionResult> [CLASSNAME](string hash)
+         => await _proxyService.ProxyTo($"{Startup.ConnectionString[DOMAIN]Service}/[CLASSNAME]/Get/{hash}");
+
+        [HttpGet("GetAll")]
+        public async Task<IActionResult> [CLASSNAME]()
+            => await _proxyService.ProxyTo($"{Startup.ConnectionString[DOMAIN]Service}/[CLASSNAME]/GetAll");

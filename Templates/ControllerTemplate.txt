@@ -1,0 +1,32 @@
+﻿using [DOMAIN].API.Interfaces.[FOLDER];
+using Microsoft.AspNetCore.Mvc;
+using System.Threading.Tasks;
+
+namespace [DOMAIN].API.Controllers
+{
+    [Route("api/[DOMAIN]/[controller]")]
+    [ApiController]
+    public class [CLASSNAME]Controller : ControllerBase
+    {
+        private readonly I[CLASSNAME]Service _[CLASSNAMELOWERCASE]Service;
+        public [CLASSNAME]Controller(
+            I[CLASSNAME]Service [CLASSNAMELOWERCASE]Service)
+        {
+            _[CLASSNAMELOWERCASE]Service = [CLASSNAMELOWERCASE]Service;
+        }
+
+        [HttpGet("Get/{hash}")]
+        public async Task<IActionResult> Get(string hash)
+        {
+            var [CLASSNAMELOWERCASE] = await _[CLASSNAMELOWERCASE]Service.GetById(hash);
+            return Ok([CLASSNAMELOWERCASE]);
+        }
+
+        [HttpGet("GetAll")]
+        public IActionResult GetAll()
+        {
+            var [CLASSNAMELOWERCASE] = _[CLASSNAMELOWERCASE]Service.GetAll();
+            return Ok([CLASSNAMELOWERCASE]);
+        }
+    }
+}

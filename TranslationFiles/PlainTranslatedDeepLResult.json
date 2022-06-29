@@ -1,0 +1,116 @@
+[
+  {
+    "nameSchema": null,
+    "TableName": null,
+    "ClassName": "ProductType",
+    "ChaveAcessoObjeto": "821d4717-d8db-e8e7-1f6e-ee894f8ad430"
+  },
+  {
+    "nameSchema": null,
+    "TableName": null,
+    "ClassName": "EdgeProduct",
+    "ChaveAcessoObjeto": "1b29f685-bdce-2884-dbad-395e2c455ef3"
+  },
+  {
+    "nameSchema": null,
+    "TableName": null,
+    "ClassName": "EligibilityType Odonto Health",
+    "ChaveAcessoObjeto": "7b494482-59d8-70f9-e743-ed76c821f438"
+  },
+  {
+    "nameSchema": null,
+    "TableName": null,
+    "ClassName": "PlanType",
+    "ChaveAcessoObjeto": "78061ae4-83b4-1d81-975d-44430f11c183"
+  },
+  {
+    "nameSchema": null,
+    "TableName": null,
+    "ClassName": "AccommodationType",
+    "ChaveAcessoObjeto": "0c5e614a-1fb1-ef50-a1cf-a6db2f739eab"
+  },
+  {
+    "nameSchema": null,
+    "TableName": null,
+    "ClassName": "TypeCategoryPlan",
+    "ChaveAcessoObjeto": "ead10110-5b7a-4945-3939-5a557858fe92"
+  },
+  {
+    "nameSchema": null,
+    "TableName": null,
+    "ClassName": "Plan",
+    "ChaveAcessoObjeto": "c36ddc54-8301-ccef-25bc-5694ab8fa85d"
+  },
+  {
+    "nameSchema": null,
+    "TableName": null,
+    "ClassName": "Client",
+    "ChaveAcessoObjeto": "76a1f78b-7546-7710-68fe-ff9a9f8a2fdb"
+  },
+  {
+    "nameSchema": null,
+    "TableName": null,
+    "ClassName": "Dor Branch",
+    "ChaveAcessoObjeto": "c6dda93d-a2ed-915e-5c0e-4112e545ab79"
+  },
+  {
+    "nameSchema": null,
+    "TableName": null,
+    "ClassName": "ClientSituation",
+    "ChaveAcessoObjeto": "9c72e4a9-97e0-e8ff-8c49-f7f4e60ef85e"
+  },
+  {
+    "nameSchema": null,
+    "TableName": null,
+    "ClassName": "CompanyType",
+    "ChaveAcessoObjeto": "99050d7b-83f9-0fdd-c567-9da8e0169347"
+  },
+  {
+    "nameSchema": null,
+    "TableName": null,
+    "ClassName": "IndicationOrigin",
+    "ChaveAcessoObjeto": "0e3fc793-f8b2-08a7-ae7b-fdb883ce2031"
+  },
+  {
+    "nameSchema": null,
+    "TableName": null,
+    "ClassName": "Partner",
+    "ChaveAcessoObjeto": "922fa2e4-dd97-2142-4ac7-e44bd12b94e9"
+  },
+  {
+    "nameSchema": null,
+    "TableName": null,
+    "ClassName": "ClientPort",
+    "ChaveAcessoObjeto": "c09d71c8-aa76-c81b-9343-190ec41cafc4"
+  },
+  {
+    "NameSchema": null,
+    "TableName": null,
+    "ClassName": "PartnerType",
+    "ChaveAcessoObjeto": "a31f62d0-9606-a64d-43bb-0a521a5f9066"
+  },
+  {
+    "nameSchema": null,
+    "TableName": null,
+    "ClassName": "Company",
+    "ChaveAcessoObjeto": "49bac4be-dadb-26b1-1b92-f6389c3a7500"
+  },
+  {
+    "nameSchema": null,
+    "TableName": null,
+    "ClassName": "Operator",
+    "ChaveAcessoObjeto": "e9844733-ba0a-15d4-6430-6809d35a77da"
+  },
+  {
+    "nameSchema": null,
+    "TableName": null,
+    "ClassName": "FactRule Contracted Plan",
+    "ChaveAcessoObjeto": "4febdaa4-8f32-01b2-bfb5-812994816e06"
+  },
+  {
+    "nameSchema": null,
+    "TableName": null,
+    "ClassName": "PlanRangeType",
+    "ChaveAcessoObjeto": "8493e5bb-bd67-0b09-2eeb-bd5352d03655"
+  }
+]

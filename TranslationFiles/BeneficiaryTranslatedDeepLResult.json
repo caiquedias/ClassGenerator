@@ -1,0 +1,62 @@
+[
+  {
+    "SchemaName": null,
+    "TableName": null,
+    "ClassName": "Beneficiary",
+    "AccessKeyObject": "2326950f-87fe-9fbd-f830-1abb79cbe55c"
+  },
+  {
+    "SchemaName": null,
+    "TableName": null,
+    "ClassName": "District",
+    "AccessKeyObject": "b973d1bc-97c6-bab6-a3db-e4b41dd4ec79"
+  },
+  {
+    "SchemaName": null,
+    "TableName": null,
+    "ClassName": "ZIPCode",
+    "AccessKeyObject": "cfaf93e3-4f0d-f2da-c8f9-a26dfbdf6f3e"
+  },
+  {
+    "SchemaName": null,
+    "TableName": null,
+    "ClassName": "State",
+    "AccessKeyObject": "51aecb5b-8f90-66b4-1c2d-84b1827b541a"
+  },
+  {
+    "SchemaName": null,
+    "TableName": null,
+    "ClassName": "City",
+    "AccessKeyObject": "f2a3ed10-7f19-ec92-d1f1-a4c54f4ea18e"
+  },
+  {
+    "SchemaName": null,
+    "TableName": null,
+    "ClassName": "Client",
+    "AccessKeyObject": "76a1f78b-7546-7710-68fe-ff9a9f8a2fdb"
+  },
+  {
+    "SchemaName": null,
+    "TableName": null,
+    "ClassName": "Company",
+    "AccessKeyObject": "49bac4be-dadb-26b1-1b92-f6389c3a7500"
+  },
+  {
+    "SchemaName": null,
+    "NameTable": null,
+    "ClassName": "Person",
+    "AccessKeyObject": "ef20cfed-b434-4f44-24b4-24150ca43dd8"
+  },
+  {
+    "SchemaName": null,
+    "TableName": null,
+    "ClassName": "AnsPlan",
+    "AccessKeyObject": "051d3f3e-3979-14a5-76db-14f9a51ed831"
+  },
+  {
+    "SchemaName": null,
+    "TableName": null,
+    "ClassName": "Operator",
+    "AccessKeyObject": "e9844733-ba0a-15d4-6430-6809d35a77da"
+  }
+]

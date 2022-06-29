@@ -1,0 +1,38 @@
+[
+  {
+    "SchemaName": null,
+    "TableName": null,
+    "ClassName": "Person",
+    "AccessKeyObject": "ef20cfed-b434-4f44-24b4-24150ca43dd8"
+  },
+  {
+    "SchemaName": null,
+    "NameTable": null,
+    "ClassName": "PersonAddress",
+    "AccessKeyObject": "1e99e634-c967-ece3-d910-2c6ea8909cd0"
+  },
+  {
+    "SchemaName": null,
+    "NameTable": null,
+    "ClassName": "PersonRelationship",
+    "AccessKeyObject": "03f6b18e-f7f8-42d5-49ec-d293256916a8"
+  },
+  {
+    "SchemaName": null,
+    "NameTable": null,
+    "ClassName": "ContactPersonPhone",
+    "AccessKeyObject": "8692f19d-eb1f-d6a6-a2ca-320b1d4543ba"
+  },
+  {
+    "SchemaName": null,
+    "NameTable": null,
+    "ClassName": "EmailContactPerson",
+    "AccessKeyObject": "d9fd525e-7de7-030b-a182-ea43bdf3d72e"
+  },
+  {
+    "SchemaName": null,
+    "TableName": null,
+    "ClassName": "PersonDocument",
+    "AccessKeyObject": "2bece0a2-34e8-3098-cc8c-787778b465d9"
+  }
+]
